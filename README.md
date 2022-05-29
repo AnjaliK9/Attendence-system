@@ -8,6 +8,10 @@ place opencv_ffmpeg320_64.dll-->dip assignment-->dip assignment
 
 • Run the SQL DB backup file with name hello.bak in SQL Server
 
+The Dip assignment folder contains the windows application for facial recognition attendence system.
+
+The Face_Recognition_Admin_Portal folder contains the web application for admin login portal.
+
 
 Operating Instruction:-
 
