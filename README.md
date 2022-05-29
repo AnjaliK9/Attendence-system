@@ -1,7 +1,9 @@
 # Attendence-system
 
 Unzip the zipped folders.
+
 Place the packages folder inside Dip Assignment folder.
+
 place opencv_ffmpeg320_64.dll-->dip assignment-->dip assignment
 
 • Run the SQL DB backup file with name hello.bak in SQL Server
